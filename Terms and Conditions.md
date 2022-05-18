@@ -1,6 +1,7 @@
 # Terms and Conditions 
 Last updated 18.05.2022
 
+
 ## General
 These Terms and Conditions ("Terms", "Terms and Conditions") apply generally to the use of the service vibe.menu (the "Service" or “vibe.menu”), and constitute a contract between you and the company providing the Service, Vibemenu AS, Søråshøgda 233, 5235 Bergen, Norway ("The Company", “Vibemenu AS”, “us”, “we”, or “our”). These terms govern your access to and use of the vibe.menu website (the "Service"), and any video, sound, text, graphics, or other materials sent, received, stored or otherwise appearing in the Service (collectively referred to as "Content"). Parts of the Service display Content that is not Vibemenu AS's (“User Content”). Such content is the sole responsibility of the person or entity that has made it available. When "Content" is used in this document, it refers to both content provided by Vibemenu AS and User Content collectively, unless otherwise specified. For purposes of these Terms, “you” and “your” means you as the user of the Service.
 
