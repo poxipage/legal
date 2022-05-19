@@ -1,6 +1,6 @@
 # Privacy Policy
 
- Last updated 18.05.2022
+ Last updated 19.05.2022
 
 ## General policies
 
@@ -50,7 +50,7 @@ https://magic.link/legal/privacy-policy
 
 **Policy:** This data is only shared with companies that we trust to uphold the regulations of the GDPR.
 
-**Justification:** You have given us consent to process this data by siging up.  
+**Justification:** You have given us consent to process this data by signing up.  
 
 ## What are your data protection rights?
 
@@ -90,7 +90,7 @@ You can set your browser not to accept cookies, and the above website tells you 
 Our Company’s website contains links to other websites. Our privacy policy applies only to our website, so if you click on a link to another website, you should read their privacy policy.
 
 ## Changes to our privacy policy
-Our Company keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on 18th May 2022.
+Our Company keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on 19th May 2022.
 
 ## How to contact us
 If you have any questions about Our Company’s privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us by email at: hello@vibe.menu.
