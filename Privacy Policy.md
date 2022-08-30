@@ -81,7 +81,8 @@ For further information, visit allaboutcookies.org.
 
 ## What types of cookies do we use?
 
-We use a storage technology called localStorage, which is very similar to cookies. With localStorage we store the id of your user. 
+A session cookie is used to authenticate the user through the magic.link authentication.
+We also store the user id in localStorage.
 
 ## How to manage cookies
 You can set your browser not to accept cookies, and the above website tells you how to remove cookies from your browser. However, in a few cases, some of our website features may not function as a result.
