@@ -52,6 +52,38 @@ https://magic.link/legal/privacy-policy
 
 **Justification:** You have given us consent to process this data by signing up.  
 
+
+### Statitics
+
+**Personal data:** Statistics are only associated with a pseudonymised ID. We track page visits, mouse movements, 
+    
+
+**Purpose:** 
+We collect this data so that we can know how and to what extent
+the system is used, which may in turn be used to make decisions
+for developing the service and our business.
+
+**Storage:** The data is stored on servers owned by the data processors.
+
+**Source:** The information is sent using Javascript libraries from Plausible, Sentry and Hotjar
+
+**Data processors:** The information is processed by Plausible, Hotjar and Sentry. Plausible is used for basic analytics. Hotjar is used to track user behavior (anonymized). Sentry is used to report errors.
+Privacy & security policies
+Plausible:
+[https://plausible.io/privacy](https://plausible.io/privacy)
+Hotjar:
+https://www.hotjar.com/legal/policies/privacy/
+Sentry:
+https://sentry.io/privacy/
+
+**Storage duration:** We store this data as long as we want. The data is not connected
+to you as an individual, and is not personal data.
+
+**Policy:** This data is only shared with companies that we trust to uphold
+the regulations of the GDPR.
+
+**Justification:** You have given us consent to process this data by signing up.  
+
 ## What are your data protection rights?
 
 Our Company would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following: 
