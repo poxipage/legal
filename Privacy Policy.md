@@ -55,7 +55,7 @@ https://magic.link/legal/privacy-policy
 
 ### Statitics
 
-**Personal data:** Statistics are only associated with a pseudonymised ID. We track page visits, mouse movements, 
+**Personal data:** Statistics are only associated with a pseudonymised ID.
     
 
 **Purpose:** 
