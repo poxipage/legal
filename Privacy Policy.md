@@ -1,6 +1,6 @@
 # Privacy Policy
 
- Last updated 30.08.2022
+ Last updated 11.10.2022
 
 ## General policies
 
@@ -42,9 +42,9 @@ For our different types of data collection we will explain what, how, where and 
 
 **Source:** The information comes from you.
 
-**Data processors:** The information is processed by Magic Labs to authenticate you. 
+**Data processors:** The information is processed by MojoAuth to authenticate you. 
 Privacy & secuirty policies:
-https://magic.link/legal/privacy-policy
+https://mojoauth.com/privacy-policy
 
 **Storage duration:** We store this data as long as you are using the service, or until we stop delivering the service.
 
@@ -65,14 +65,12 @@ for developing the service and our business.
 
 **Storage:** The data is stored on servers owned by the data processors.
 
-**Source:** The information is sent using Javascript libraries from Plausible, Sentry and Hotjar
+**Source:** The information is sent using Javascript libraries from Plausible and Sentry
 
-**Data processors:** The information is processed by Plausible, Hotjar and Sentry. Plausible is used for basic analytics. Hotjar is used to track user behavior (anonymized). Sentry is used to report errors.
+**Data processors:** The information is processed by Plausibleand Sentry. Plausible is used for basic analytics. Sentry is used to report errors.
 Privacy & security policies
 Plausible:
 [https://plausible.io/privacy](https://plausible.io/privacy)
-Hotjar:
-https://www.hotjar.com/legal/policies/privacy/
 Sentry:
 https://sentry.io/privacy/
 
@@ -113,7 +111,7 @@ For further information, visit allaboutcookies.org.
 
 ## What types of cookies do we use?
 
-A session cookie is used to authenticate the user through the magic.link authentication.
+A session cookie is used to authenticate the user.
 We also store the user id in localStorage.
 
 ## How to manage cookies
@@ -126,4 +124,4 @@ Our Company’s website contains links to other websites. Our privacy policy app
 Our Company keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on 19th May 2022.
 
 ## How to contact us
-If you have any questions about Our Company’s privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us by email at: hello@vibe.menu.
+If you have any questions about Our Company’s privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us by email at: filip@poxi.page.
